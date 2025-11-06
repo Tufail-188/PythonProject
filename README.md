@@ -54,7 +54,7 @@ By leveraging **computer vision** and **AI-powered hand tracking**, it converts 
 
 📸 Demo Preview
 
-![Hand Volume Control Demo](Images/demo.png)
+![Hand Volume Control Demo](Images.png)
 
 💡 Applications
 
@@ -69,6 +69,6 @@ Educational computer vision projects
 🧑‍💻 Author
 
 👤 Tufail Nalband
-💻 Python & AI Enthusiast | Computer Vision Developer
+💻 Python & AI Enthusiast 
 
 
